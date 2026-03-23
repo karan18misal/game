@@ -110,24 +110,3 @@ class Karan:
 
 </div>
 
----
-
-## 💡 Dev Quote
-
-<div align="center">
-  
-> ⚡ "Fast hardware isn't designed, it's optimized."
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ "Turning logic into silicon, one cycle at a time."
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
