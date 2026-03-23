@@ -77,46 +77,6 @@ class Karan:
 
 ---
 
-## 🔬 Featured Projects
-
-### 🧩 Secured RISC-V Processor
-- Designed RV32I processor with integrated encryption module  
-- Secure memory data transfers using encryption/decryption  
-- Focus on **hardware-level security**
-
----
-
-### ⚡ High-Speed Modified Adder
-- Combined Kogge-Stone + Carry Select  
-- Optimized **speed, area, power trade-off**  
-- Targeted for high-performance ALUs  
-
----
-
-### 🖥️ High-Speed RISC-V Processor (Han-Carlson)
-- Complete processor design (PC, ALU, Control Unit, Memory)  
-- Reduced delay using prefix adder architecture  
-- Optimized for **embedded & AI workloads**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karan18misal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karan18misal&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=karan18misal&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
 ### 🔥 Working On:
